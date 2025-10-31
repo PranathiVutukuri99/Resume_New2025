@@ -3433,7 +3433,7 @@ img.u-pull-left {
  * ## about expertise
  * -------------------------------------------------------------------- */
 .about-expertise {
-    padding-top : calc(6 * var(--space));
+    padding-top : var(--vspace-2) !important;
 }
 
 .about-expertise .skills-list {
